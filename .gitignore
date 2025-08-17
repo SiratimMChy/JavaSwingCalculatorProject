@@ -1,0 +1,23 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# Build outputs
+bin/
+out/
+target/
+build/
+
+# Java compiled classes
+*.class
+
+# Logs
+*.log
+
+# OS cruft
+.DS_Store
+Thumbs.db
